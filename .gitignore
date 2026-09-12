@@ -1,0 +1,12 @@
+# Build product — produced by build.sh
+mGBAHold.app/
+*.app/
+build/
+.build/
+DerivedData/
+
+.signing/
+*.p12
+*.pem
+
+.DS_Store
